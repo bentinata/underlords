@@ -1,0 +1,19 @@
+{
+  "name": "underlords",
+  "version": "0.1.0",
+  "description": "Calculate Dota Underlords heroes combination.",
+  "main": "index.js",
+  "dependencies": {
+    "ansi-colors": "^4.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.sr.ht/~bentinata/underlords"
+  },
+  "author": "Ben N <_@bentinata.com>",
+  "license": "MIT"
+}

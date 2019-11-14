@@ -1,0 +1,586 @@
+[
+  {
+    "name": "anti-mage",
+    "tier": 1,
+    "alliance": [
+      "elusive",
+      "assassin"
+    ]
+  },
+  {
+    "name": "axe",
+    "tier": 1,
+    "alliance": [
+      "brawny",
+      "brute"
+    ]
+  },
+  {
+    "name": "batrider",
+    "tier": 1,
+    "alliance": [
+      "troll",
+      "knight"
+    ]
+  },
+  {
+    "name": "bloodseeker",
+    "tier": 1,
+    "alliance": [
+      "blood-bound",
+      "deadeye"
+    ]
+  },
+  {
+    "name": "bounty hunter",
+    "tier": 1,
+    "alliance": [
+      "scrappy",
+      "assassin"
+    ]
+  },
+  {
+    "name": "drow ranger",
+    "tier": 1,
+    "alliance": [
+      "heartless",
+      "hunter"
+    ]
+  },
+  {
+    "name": "enchantress",
+    "tier": 1,
+    "alliance": [
+      "savage",
+      "druid",
+      "healer"
+    ]
+  },
+  {
+    "name": "nyx assassin",
+    "tier": 1,
+    "alliance": [
+      "insect",
+      "assassin"
+    ]
+  },
+  {
+    "name": "ogre magi",
+    "tier": 1,
+    "alliance": [
+      "blood-bound",
+      "mage"
+    ]
+  },
+  {
+    "name": "razor",
+    "tier": 1,
+    "alliance": [
+      "primordial",
+      "mage"
+    ]
+  },
+  {
+    "name": "shadow demon",
+    "tier": 1,
+    "alliance": [
+      "heartless",
+      "demon"
+    ]
+  },
+  {
+    "name": "shadow shaman",
+    "tier": 1,
+    "alliance": [
+      "troll",
+      "shaman"
+    ]
+  },
+  {
+    "name": "tiny",
+    "tier": 1,
+    "alliance": [
+      "primordial",
+      "warrior"
+    ]
+  },
+  {
+    "name": "tusk",
+    "tier": 1,
+    "alliance": [
+      "savage",
+      "warrior"
+    ]
+  },
+  {
+    "name": "venomancer",
+    "tier": 1,
+    "alliance": [
+      "savage",
+      "warlock"
+    ]
+  },
+  {
+    "name": "warlock",
+    "tier": 1,
+    "alliance": [
+      "blood-bound",
+      "warlock",
+      "healer"
+    ]
+  },
+  {
+    "name": "beastmaster",
+    "tier": 2,
+    "alliance": [
+      "brawny",
+      "hunter"
+    ]
+  },
+  {
+    "name": "chaos knight",
+    "tier": 2,
+    "alliance": [
+      "demon",
+      "knight"
+    ]
+  },
+  {
+    "name": "crystal maiden",
+    "tier": 2,
+    "alliance": [
+      "human",
+      "mage"
+    ]
+  },
+  {
+    "name": "dazzle",
+    "tier": 2,
+    "alliance": [
+      "troll",
+      "healer"
+    ]
+  },
+  {
+    "name": "luna",
+    "tier": 2,
+    "alliance": [
+      "elusive",
+      "knight"
+    ]
+  },
+  {
+    "name": "magnus",
+    "tier": 2,
+    "alliance": [
+      "shaman",
+      "brute"
+    ]
+  },
+  {
+    "name": "morphling",
+    "tier": 2,
+    "alliance": [
+      "primordial",
+      "assassin"
+    ]
+  },
+  {
+    "name": "natures prophet",
+    "tier": 2,
+    "alliance": [
+      "druid",
+      "shaman"
+    ]
+  },
+  {
+    "name": "puck",
+    "tier": 2,
+    "alliance": [
+      "elusive",
+      "dragon",
+      "mage"
+    ]
+  },
+  {
+    "name": "pudge",
+    "tier": 2,
+    "alliance": [
+      "heartless",
+      "warrior"
+    ]
+  },
+  {
+    "name": "queen of pain",
+    "tier": 2,
+    "alliance": [
+      "demon",
+      "assassin"
+    ]
+  },
+  {
+    "name": "slardar",
+    "tier": 2,
+    "alliance": [
+      "scaled",
+      "warrior"
+    ]
+  },
+  {
+    "name": "timbersaw",
+    "tier": 2,
+    "alliance": [
+      "scrappy",
+      "inventor"
+    ]
+  },
+  {
+    "name": "weaver",
+    "tier": 2,
+    "alliance": [
+      "insect",
+      "hunter"
+    ]
+  },
+  {
+    "name": "windranger",
+    "tier": 2,
+    "alliance": [
+      "elusive",
+      "hunter"
+    ]
+  },
+  {
+    "name": "witch doctor",
+    "tier": 2,
+    "alliance": [
+      "troll",
+      "warlock"
+    ]
+  },
+  {
+    "name": "abaddon",
+    "tier": 3,
+    "alliance": [
+      "heartless",
+      "knight"
+    ]
+  },
+  {
+    "name": "clockwerk",
+    "tier": 3,
+    "alliance": [
+      "scrappy",
+      "inventor"
+    ]
+  },
+  {
+    "name": "io",
+    "tier": 3,
+    "alliance": [
+      "primordial",
+      "druid"
+    ]
+  },
+  {
+    "name": "juggernaut",
+    "tier": 3,
+    "alliance": [
+      "brawny",
+      "warrior"
+    ]
+  },
+  {
+    "name": "legion commander",
+    "tier": 3,
+    "alliance": [
+      "human",
+      "champion"
+    ]
+  },
+  {
+    "name": "lifestealer",
+    "tier": 3,
+    "alliance": [
+      "heartless",
+      "brute"
+    ]
+  },
+  {
+    "name": "lina",
+    "tier": 3,
+    "alliance": [
+      "human",
+      "mage"
+    ]
+  },
+  {
+    "name": "lycan",
+    "tier": 3,
+    "alliance": [
+      "human",
+      "hunter",
+      "savage"
+    ]
+  },
+  {
+    "name": "omniknight",
+    "tier": 3,
+    "alliance": [
+      "human",
+      "knight",
+      "healer"
+    ]
+  },
+  {
+    "name": "phantom assassin",
+    "tier": 3,
+    "alliance": [
+      "elusive",
+      "assassin"
+    ]
+  },
+  {
+    "name": "shadow fiend",
+    "tier": 3,
+    "alliance": [
+      "demon",
+      "warlock"
+    ]
+  },
+  {
+    "name": "slark",
+    "tier": 3,
+    "alliance": [
+      "scaled",
+      "assassin"
+    ]
+  },
+  {
+    "name": "sniper",
+    "tier": 3,
+    "alliance": [
+      "scrappy",
+      "deadeye",
+      "hunter"
+    ]
+  },
+  {
+    "name": "terrorblade",
+    "tier": 3,
+    "alliance": [
+      "demon",
+      "hunter"
+    ]
+  },
+  {
+    "name": "tinker",
+    "tier": 3,
+    "alliance": [
+      "scrappy",
+      "inventor"
+    ]
+  },
+  {
+    "name": "treant protector",
+    "tier": 3,
+    "alliance": [
+      "druid",
+      "brute"
+    ]
+  },
+  {
+    "name": "viper",
+    "tier": 3,
+    "alliance": [
+      "scaled",
+      "dragon"
+    ]
+  },
+  {
+    "name": "alchemist",
+    "tier": 4,
+    "alliance": [
+      "scrappy",
+      "warlock"
+    ]
+  },
+  {
+    "name": "arc warden",
+    "tier": 4,
+    "alliance": [
+      "primordial",
+      "shaman"
+    ]
+  },
+  {
+    "name": "bristleback",
+    "tier": 4,
+    "alliance": [
+      "brawny",
+      "savage"
+    ]
+  },
+  {
+    "name": "broodmother",
+    "tier": 4,
+    "alliance": [
+      "insect",
+      "warlock"
+    ]
+  },
+  {
+    "name": "doom",
+    "tier": 4,
+    "alliance": [
+      "demon",
+      "brute"
+    ]
+  },
+  {
+    "name": "dragon knight",
+    "tier": 4,
+    "alliance": [
+      "human",
+      "dragon",
+      "knight"
+    ]
+  },
+  {
+    "name": "keeper of the light",
+    "tier": 4,
+    "alliance": [
+      "human",
+      "mage"
+    ]
+  },
+  {
+    "name": "kunkka",
+    "tier": 4,
+    "alliance": [
+      "human",
+      "warrior"
+    ]
+  },
+  {
+    "name": "lone druid",
+    "tier": 4,
+    "alliance": [
+      "savage",
+      "druid"
+    ]
+  },
+  {
+    "name": "mirana",
+    "tier": 4,
+    "alliance": [
+      "elusive",
+      "hunter"
+    ]
+  },
+  {
+    "name": "necrophos",
+    "tier": 4,
+    "alliance": [
+      "heartless",
+      "healer"
+    ]
+  },
+  {
+    "name": "sand king",
+    "tier": 4,
+    "alliance": [
+      "savage",
+      "insect"
+    ]
+  },
+  {
+    "name": "templar assassin",
+    "tier": 4,
+    "alliance": [
+      "elusive",
+      "assassin"
+    ]
+  },
+  {
+    "name": "tidehunter",
+    "tier": 4,
+    "alliance": [
+      "scaled",
+      "warrior"
+    ]
+  },
+  {
+    "name": "disruptor",
+    "tier": 5,
+    "alliance": [
+      "brawny",
+      "warlock"
+    ]
+  },
+  {
+    "name": "enigma",
+    "tier": 5,
+    "alliance": [
+      "primordial",
+      "shaman"
+    ]
+  },
+  {
+    "name": "faceless void",
+    "tier": 5,
+    "alliance": [
+      "primordial",
+      "assassin"
+    ]
+  },
+  {
+    "name": "gyrocopter",
+    "tier": 5,
+    "alliance": [
+      "deadeye",
+      "inventor"
+    ]
+  },
+  {
+    "name": "lich",
+    "tier": 5,
+    "alliance": [
+      "heartless",
+      "mage"
+    ]
+  },
+  {
+    "name": "medusa",
+    "tier": 5,
+    "alliance": [
+      "scaled",
+      "hunter"
+    ]
+  },
+  {
+    "name": "sven",
+    "tier": 5,
+    "alliance": [
+      "human",
+      "scaled",
+      "knight"
+    ]
+  },
+  {
+    "name": "techies",
+    "tier": 5,
+    "alliance": [
+      "scrappy",
+      "inventor"
+    ]
+  },
+  {
+    "name": "troll warlord",
+    "tier": 5,
+    "alliance": [
+      "troll",
+      "warrior"
+    ]
+  }
+]
