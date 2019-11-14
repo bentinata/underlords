@@ -62,8 +62,15 @@ const formatAlliance = (alliances) =>
   alliances.map(a => alliance[a]).join('')
 
 const format = (hero) =>
-  `${c.yellow(hero.tier)}${formatName(hero.name)}${formatAlliance(hero.alliance)}`
+  `${c.yellow(hero.tier)} ${formatName(hero.name)} ${formatAlliance(hero.alliance)}`
 
-const result = search({ tier: 3, alliance: ['savage', 'druid'] })
-
-console.log(result.map(format).join(' + '))
+if (process.argv.length <= 2) {
+  console.log(`Usage:
+  npx github:bentinata/underlords alliances,anotheralliances tier
+Example:
+  npx github:bentinata/underlords savage,druid 3`)
+} else {
+  //const result = search({ tier: 3, alliance: ['savage', 'druid'] })
+  const result = search({ alliance: process.argv[2].split(','), tier: +process.argv[3] })
+  console.log(result.map(format).join('\n'))
+}
