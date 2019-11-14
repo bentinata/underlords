@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "description": "Calculate Dota Underlords heroes combination.",
   "main": "index.js",
+  "bin": {
+    "underlords": "index.js"
+  },
   "dependencies": {
     "ansi-colors": "^4.1.1"
   },
