@@ -182,7 +182,7 @@
     "tier": 2,
     "alliance": [
       "primordial",
-      "assassin"
+      "mage"
     ]
   },
   {
@@ -238,8 +238,8 @@
     "name": "weaver",
     "tier": 2,
     "alliance": [
-      "insect",
-      "hunter"
+      "elusive",
+      "insect"
     ]
   },
   {
