@@ -3,35 +3,8 @@
 
 const c = require('ansi-colors')
 const heroes = require('./heroes.json')
+const alliance = require('./alliance')
 
-const alliance = {
-  assassin: c.bgBlue('A'),
-  'blood-bound': c.yellow.bgRed('B'),
-  brawny: c.bgRed('B'),
-  brute: c.black.bgYellow('B'),
-  champion: c.bgCyan('C'),
-  deadeye: c.black.bgYellow('D'),
-  demon: c.bgMagenta('D'),
-  dragon: c.bgRedBright('D'),
-  druid: c.bgGreen('D'),
-  elusive: c.bgCyan('E'),
-  healer: c.bgGreen('H'),
-  heartless: c.bgWhiteBright('H'),
-  human: c.bgBlueBright('H'),
-  hunter: c.bgRedBright('H'),
-  insect: c.bgBlue('I'),
-  inventor: c.black.bgYellow('I'),
-  knight: c.black.bgYellow('K'),
-  mage: c.bgCyan('M'),
-  primordial: c.bgBlueBright('P'),
-  savage: c.bgRed('S'),
-  scaled: c.bgBlue('S'),
-  scrappy: c.black.bgYellow('S'),
-  shaman: c.bgGreen('S'),
-  troll: c.black.bgYellow('T'),
-  warlock: c.bgMagentaBright('W'),
-  warrior: c.bgBlue('W'),
-}
 
 const search = (({ tier, alliance }) => {
   return heroes
