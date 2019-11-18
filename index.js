@@ -14,6 +14,7 @@ const search = (({ tier, alliance }) => {
 })
 
 const capitalize = (s) => s.charAt(0).toUpperCase() + s.slice(1)
+const titlecase = (s) => s.split(/[- ]/).map(capitalize).join(' ')
 
 const formatName = (name) => {
   const vowel = 'aeiou'
@@ -36,7 +37,7 @@ const formatAlliance = (alliances) =>
   alliances.map(a => alliance[a]).join('')
 
 const format = (hero) =>
-  `${c.yellow(hero.tier)} ${formatName(hero.name)} ${formatAlliance(hero.alliance)}`
+  `${c.yellow(hero.tier)} ${formatName(hero.name).padEnd(5)} ${formatAlliance(hero.alliance)}`
 
 if (process.argv.length <= 2) {
   console.log(`Usage:
