@@ -16,8 +16,7 @@
     "name": "brawny",
     "requirement": [
       2,
-      4,
-      6
+      4
     ]
   },
   {
@@ -68,21 +67,22 @@
   {
     "name": "healer",
     "requirement": [
-      3,
-      6
+      3
     ]
   },
   {
     "name": "heartless",
     "requirement": [
       2,
-      4
+      4,
+      6
     ]
   },
   {
     "name": "human",
     "requirement": [
-      3,
+      2,
+      4,
       6
     ]
   },
@@ -103,14 +103,14 @@
     "name": "inventor",
     "requirement": [
       2,
-      4,
-      6
+      4
     ]
   },
   {
     "name": "knight",
     "requirement": [
-      3,
+      2,
+      4,
       6
     ]
   },
