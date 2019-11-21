@@ -1,0 +1,184 @@
+[
+  {
+    "name": "assassin",
+    "requirement": [
+      3,
+      6
+    ]
+  },
+  {
+    "name": "blood-bound",
+    "requirement": [
+      2
+    ]
+  },
+  {
+    "name": "brawny",
+    "requirement": [
+      2,
+      4,
+      6
+    ]
+  },
+  {
+    "name": "brute",
+    "requirement": [
+      2,
+      4
+    ]
+  },
+  {
+    "name": "champion",
+    "requirement": [
+      1
+    ]
+  },
+  {
+    "name": "deadeye",
+    "requirement": [
+      2
+    ]
+  },
+  {
+    "name": "demon",
+    "requirement": [
+      1
+    ]
+  },
+  {
+    "name": "dragon",
+    "requirement": [
+      2
+    ]
+  },
+  {
+    "name": "druid",
+    "requirement": [
+      2,
+      4
+    ]
+  },
+  {
+    "name": "elusive",
+    "requirement": [
+      3,
+      6
+    ]
+  },
+  {
+    "name": "healer",
+    "requirement": [
+      3,
+      6
+    ]
+  },
+  {
+    "name": "heartless",
+    "requirement": [
+      2,
+      4
+    ]
+  },
+  {
+    "name": "human",
+    "requirement": [
+      3,
+      6
+    ]
+  },
+  {
+    "name": "hunter",
+    "requirement": [
+      3,
+      6
+    ]
+  },
+  {
+    "name": "insect",
+    "requirement": [
+      3
+    ]
+  },
+  {
+    "name": "inventor",
+    "requirement": [
+      2,
+      4,
+      6
+    ]
+  },
+  {
+    "name": "knight",
+    "requirement": [
+      3,
+      6
+    ]
+  },
+  {
+    "name": "mage",
+    "requirement": [
+      3,
+      6
+    ]
+  },
+  {
+    "name": "primordial",
+    "requirement": [
+      2,
+      4,
+      6
+    ]
+  },
+  {
+    "name": "savage",
+    "requirement": [
+      2,
+      4,
+      6
+    ]
+  },
+  {
+    "name": "scaled",
+    "requirement": [
+      2,
+      4
+    ]
+  },
+  {
+    "name": "scrappy",
+    "requirement": [
+      2,
+      4,
+      6
+    ]
+  },
+  {
+    "name": "shaman",
+    "requirement": [
+      2,
+      4
+    ]
+  },
+  {
+    "name": "troll",
+    "requirement": [
+      2,
+      4
+    ]
+  },
+  {
+    "name": "warlock",
+    "requirement": [
+      2,
+      4,
+      6
+    ]
+  },
+  {
+    "name": "warrior",
+    "requirement": [
+      3,
+      6
+    ]
+  }
+]
