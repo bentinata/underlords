@@ -21,22 +21,25 @@ const search = (({ tier = 5, alliances, level = 11 }) =>
 
 const capitalize = (s) => s.charAt(0).toUpperCase() + s.slice(1)
 const titlecase = (s) => s.split(/[- ]/).map(capitalize).join(' ')
+const vowel = (s) => 'aeiou'.includes(s)
 
 const formatName = (name) => {
-  const vowel = 'aeiou'
-  const splittedName = name.split(/[- ]/)
-  const [firstName] = splittedName
+  const split = name.split(/[- ]/)
+  const [first] = split
 
-  if (firstName.length <= 3)
-    return capitalize(firstName)
-  else
-    if (splittedName.length == 1)
-      if (vowel.includes(firstName[2]) && vowel.includes(firstName[3]) && !vowel.includes(firstName[4]))
-        return capitalize(firstName.slice(0, 5))
-      else
-        return capitalize(firstName.slice(0, 4))
+  if (split.length == 1)
+    if (first.length <= 5)
+      return capitalize(first)
+    // for Brood or Blood
+    else if (vowel(first[2]) && vowel(first[3]) && !vowel(first[4]))
+      return capitalize(first.slice(0, 5))
     else
-      return splittedName.map(s => s[0]).join('').toUpperCase()
+      return capitalize(first.slice(0, 4))
+  else
+    if (first.length <= 3)
+      return capitalize(first)
+    else
+      return split.map(s => s[0]).join('').toUpperCase()
 }
 
 const formatAlliance = (alliance) => {
