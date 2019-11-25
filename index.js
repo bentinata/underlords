@@ -58,7 +58,7 @@ const formatName = (name) => {
     else
       return capitalize(first.slice(0, 4))
   else
-    if (first.length <= 3)
+    if (first.length <= 4 && !name.includes('-'))
       return capitalize(first)
     else
       return split.map(s => s[0]).join('').toUpperCase()
